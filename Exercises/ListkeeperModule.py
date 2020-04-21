@@ -1,26 +1,28 @@
-
-class Listkeeper:
-    def __init__():
+class ListKeeper:
+    listDict = dict()
+    def __init__(self):
         """initializes the dictionary with a list named example"""
-        self.dict = {"example": [1,2,3,4,5]}
+        self.listDict = {"example": [1,2,3,4,5]}
 
-    def show():
+    def show(self):
         """returns all list names"""
-        for x in dict:
-            print(x)
+        list = []
+        for x in self.listDict:
+            list.append(x)
+        return list
 
     def add(self,name, list):
         """adds a new list"""
-        dict[name]: list
+        self.listDict[name] = list
 
     def delete(self,name):
         """deletes list"""
-        dict.pop(name)
+        self.listDict.pop(name)
 
     def sort (self, name):
         """returns the sorted list *name*"""
-        return dict[name].sort()
+        return self.listDict[name].sort()
 
     def append (self, name, list):
         """ appends *list* to *name* """
-        dict[name].extend(list)
+        self.listDict[name].extend(list)

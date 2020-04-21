@@ -49,6 +49,3 @@ Please upload your solutions via Moodle!
 Please upload your solutions via Moodle!
 * [Exercise 2_a](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
 * [Exercise 2_b](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
-
-
-

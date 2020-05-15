@@ -117,11 +117,11 @@ Please upload your solutions via Moodle!
 * [Statistics II](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
 
 ### Exercises
-* [5_a_Classification_MNIST](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)
-* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
 
 
-## Block 6- Machine Learning V-VII
+## Block 6 - Machine Learning V-VII
 
 ### Static Slides
 * [Machine Learning V - Non-Linear Models I](Slides/06_a_Machine_Learning_V_nonlinear_models_part_I.pdf)
@@ -136,3 +136,9 @@ Please upload your solutions via Moodle!
 ### Exercises
 * [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)
 * [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)
+
+## Block 7 - Deep Learnig
+
+### Static Slides
+* [Feature Extraction ](Slides/07_a_Machine_Learning_VII_Feature_Extraction.pdf)
+* [Introduction to Deep Learning](Slides/07_b_Deep_Learning_Introduction.pdf)

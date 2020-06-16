@@ -147,8 +147,8 @@ Please upload your solutions via Moodle!
 * [Keras Intro](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
 
 ### Exercises
-* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)
-* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/FabioCoder/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
 
 
 ## Block 8 - Deep Learnig
